@@ -1,1 +1,1 @@
-FROM batelt-devops101.jfrog.io/ubuntu:16.04
+FROM harley259.jfrog.io/ubuntu:16.04
